@@ -1,16 +1,16 @@
 {
-  "name": "@etm3/sdk-core",
+  "name": "@etmp/sdk-core",
   "license": "MIT",
-  "version": "1.0.2",
-  "description": "⚒️ An SDK for building applications on top of ETM3Swap",
+  "version": "1.0.0",
+  "description": "⚒️ An SDK for building applications on top of ETMPSwap",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/etm3/swap-sdk-core",
+  "repository": "https://github.com/ETM-Proterozoic/swap-sdk-core",
   "keywords": [
-    "etm3",
+    "etmp",
     "ethereum"
   ],
   "module": "dist/sdk-core.esm.js",
